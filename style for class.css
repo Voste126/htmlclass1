@@ -1,0 +1,74 @@
+.fruits{
+    border: 2px solid darkgreen;
+    text-align: center;
+    background-color: beige;
+    margin: 20px ;
+    color: crimson;
+    padding: 4px ;
+
+
+}
+.cars{
+    text-align: center;
+    background-color: blue;
+    color: black;
+    margin: 20px;
+    border: 2px dot-dash blueviolet;
+    padding: 4px;
+}
+.FRUITS{
+    text-align: center;
+    background-color: blueviolet;
+    color: black;
+    font: bold;
+    margin: 20px;
+    padding-bottom: 4px;
+
+
+}
+.formulaone{
+    text-align: center;
+    background-color: darkgreen;
+    color: black;
+    padding: 4px;
+    margin: 20px;
+
+}
+.firstname{
+    padding: 6px;
+    background-color: darkgray;
+    margin: 20px;
+}
+.lastname{padding: 6px;
+    background-color: darkgray;
+    margin: 20px;
+
+}
+.password{
+    padding: 6px;
+    background-color: darkgray;
+    margin: 20px;
+}
+.date{padding: 6px;
+    background-color: darkgray;
+    margin: 20px;
+
+}
+.baruapepe{
+    padding: 6px;
+    background-color: darkgray;
+    margin: 20px;
+
+}
+.courses{ padding: 6px;
+    background-color: darkgray;
+    margin: 20px;
+
+}
+
+
+
+
+
+
+
